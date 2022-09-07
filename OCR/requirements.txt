@@ -1,2 +1,5 @@
 Pillow
 easyocr
+opencv-contrib-python
+--upgrade google-cloud-vision
+google-api-core==2.7.3
