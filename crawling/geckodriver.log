@@ -1,0 +1,19 @@
+1662209933680	geckodriver	INFO	Listening on 127.0.0.1:57793
+1662209934696	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hr/y8znbyhd4058w4d5l14qqsv80000gn/T/rust_mozprofile8NdrRr"
+1662209935350	Marionette	INFO	Marionette enabled
+2022-09-03 21:58:55.376 plugin-container[39645:3426627] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-03 21:58:55.376 plugin-container[39645:3426627] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1662209935406	Marionette	INFO	Listening on port 57806
+2022-09-03 21:58:55.426 plugin-container[39645:3426627] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-03 21:58:55.426 plugin-container[39645:3426627] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-09-03 21:58:55.426 plugin-container[39645:3426633] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-03 21:58:55.426 plugin-container[39645:3426633] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 57806
+1662209935486	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/hr/y8znbyhd4058w4d5l14qqsv80000gn/T/rust_mozprofile8NdrRr/search.json.mozlz4", (void 0)))
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
