@@ -5,4 +5,5 @@
 
 ---
 
-- 2022-09-02  OCR 간편 사용 모듈 (안문주)
+- 2022-09-03  [EasyOCR test](./OCR/read_ocr_0903.ipynb)
+- 2022-09-08  [google OCR API test](./OCR/google_ocr_0908.ipynb)
